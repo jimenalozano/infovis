@@ -9,3 +9,5 @@
   [Week 32 - by RAW Graphs](https://jimenalozano.github.io/infovis/w32.html)
   
   [Week 34 - by Flourish](https://jimenalozano.github.io/infovis/w34.html)
+  
+  [Personal Data](https://jimenalozano.github.io/infovis/personaldata.html)
